@@ -68,7 +68,7 @@ for Raspberry Pi deployment.
 
 💻 Installation
 Clone Repository
-git clone https://github.com/yourusername/SmartTrolleyNexus.git
+git clone https://github.com/smziyanhussain/Smart-Trolley-Nexus
 cd SmartTrolleyNexus
 Create Virtual Environment
 python -m venv venv
